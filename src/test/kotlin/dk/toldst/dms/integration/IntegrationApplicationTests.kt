@@ -1,13 +1,13 @@
 package dk.toldst.dms.integration
 
-import org.junit.jupiter.api.Test
-import org.springframework.boot.test.context.SpringBootTest
+//import org.junit.jupiter.api.Test
+//import org.springframework.boot.test.context.SpringBootTest
 
-@SpringBootTest
-class IntegrationApplicationTests {
-
-	@Test
-	fun contextLoads() {
-	}
-
-}
+//@SpringBootTest
+//class IntegrationApplicationTests {
+//
+//	@Test
+//	fun contextLoads() {
+//	}
+//
+//}
